@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++17 -g   CMakeFiles/fbx_synthesizer.dir/main.cpp.o CMakeFiles/fbx_synthesizer.dir/src/common.cpp.o CMakeFiles/fbx_synthesizer.dir/src/print.cpp.o  -o fbx_synthesizer  -Wl,-rpath,/home/pcd/vscodes/fbx_synthesizer/fbxsdk/lib/gcc/x64/debug ../fbxsdk/lib/gcc/x64/debug/libfbxsdk.so -lz -lxml2 -lz -lxml2 

@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++17 -g   CMakeFiles/preprocessing.dir/preprocessing.cpp.o CMakeFiles/preprocessing.dir/src/common.cpp.o CMakeFiles/preprocessing.dir/src/print.cpp.o  -o preprocessing  -Wl,-rpath,/home/pcd/vscodes/fbx_synthesizer/fbxsdk/lib/gcc/x64/debug ../fbxsdk/lib/gcc/x64/debug/libfbxsdk.so -lz -lxml2 -lz -lxml2 

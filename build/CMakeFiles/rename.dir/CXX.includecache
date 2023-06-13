@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pcd/vscodes/fbx_synthesizer/rename.cpp
+iostream
+-
+fstream
+-
+filesystem
+-
+string
+-
+vector
+-
+sstream
+-
+

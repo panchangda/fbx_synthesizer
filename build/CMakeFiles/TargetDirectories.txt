@@ -1,0 +1,4 @@
+/home/pcd/vscodes/fbx_synthesizer/build/CMakeFiles/edit_cache.dir
+/home/pcd/vscodes/fbx_synthesizer/build/CMakeFiles/preprocessing.dir
+/home/pcd/vscodes/fbx_synthesizer/build/CMakeFiles/rebuild_cache.dir
+/home/pcd/vscodes/fbx_synthesizer/build/CMakeFiles/fbx_synthesizer.dir

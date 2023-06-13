@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/pcd/vscodes/fbx_synthesizer/build",
+  "command": "/usr/bin/g++  -DCOMPILEDWITHC11 -I/home/pcd/vscodes/fbx_synthesizer/fbxsdk/include -I/home/pcd/vscodes/fbx_synthesizer/include   -std=c++17 -g   -o CMakeFiles/preprocessing.dir/preprocessing.cpp.o -c /home/pcd/vscodes/fbx_synthesizer/preprocessing.cpp",
+  "file": "/home/pcd/vscodes/fbx_synthesizer/preprocessing.cpp"
+},
+{
+  "directory": "/home/pcd/vscodes/fbx_synthesizer/build",
+  "command": "/usr/bin/g++  -DCOMPILEDWITHC11 -I/home/pcd/vscodes/fbx_synthesizer/fbxsdk/include -I/home/pcd/vscodes/fbx_synthesizer/include   -std=c++17 -g   -o CMakeFiles/preprocessing.dir/src/common.cpp.o -c /home/pcd/vscodes/fbx_synthesizer/src/common.cpp",
+  "file": "/home/pcd/vscodes/fbx_synthesizer/src/common.cpp"
+},
+{
+  "directory": "/home/pcd/vscodes/fbx_synthesizer/build",
+  "command": "/usr/bin/g++  -DCOMPILEDWITHC11 -I/home/pcd/vscodes/fbx_synthesizer/fbxsdk/include -I/home/pcd/vscodes/fbx_synthesizer/include   -std=c++17 -g   -o CMakeFiles/preprocessing.dir/src/print.cpp.o -c /home/pcd/vscodes/fbx_synthesizer/src/print.cpp",
+  "file": "/home/pcd/vscodes/fbx_synthesizer/src/print.cpp"
+},
+{
+  "directory": "/home/pcd/vscodes/fbx_synthesizer/build",
+  "command": "/usr/bin/g++  -DCOMPILEDWITHC11 -I/home/pcd/vscodes/fbx_synthesizer/fbxsdk/include -I/home/pcd/vscodes/fbx_synthesizer/include   -std=c++17 -g   -o CMakeFiles/fbx_synthesizer.dir/main.cpp.o -c /home/pcd/vscodes/fbx_synthesizer/main.cpp",
+  "file": "/home/pcd/vscodes/fbx_synthesizer/main.cpp"
+},
+{
+  "directory": "/home/pcd/vscodes/fbx_synthesizer/build",
+  "command": "/usr/bin/g++  -DCOMPILEDWITHC11 -I/home/pcd/vscodes/fbx_synthesizer/fbxsdk/include -I/home/pcd/vscodes/fbx_synthesizer/include   -std=c++17 -g   -o CMakeFiles/fbx_synthesizer.dir/src/common.cpp.o -c /home/pcd/vscodes/fbx_synthesizer/src/common.cpp",
+  "file": "/home/pcd/vscodes/fbx_synthesizer/src/common.cpp"
+},
+{
+  "directory": "/home/pcd/vscodes/fbx_synthesizer/build",
+  "command": "/usr/bin/g++  -DCOMPILEDWITHC11 -I/home/pcd/vscodes/fbx_synthesizer/fbxsdk/include -I/home/pcd/vscodes/fbx_synthesizer/include   -std=c++17 -g   -o CMakeFiles/fbx_synthesizer.dir/src/print.cpp.o -c /home/pcd/vscodes/fbx_synthesizer/src/print.cpp",
+  "file": "/home/pcd/vscodes/fbx_synthesizer/src/print.cpp"
+}
+]
